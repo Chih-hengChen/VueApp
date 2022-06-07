@@ -1,24 +1,3 @@
-# myspace
+# Vue App项目
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+实现了类似微博的发帖、删贴、关注等功能，可持久化至服务器。
